@@ -75,7 +75,7 @@ Netflix is a good example of a hybrid recommendation system. It provides recomme
 
 Netflix employs content-based filtering by proposing shows/movies that share characteristics with those that the user has rated highly. They can also veto common difficulties in recommendation systems, such as cold start and data inadequacy.
 
-### Wrapping Up
+## Wrapping Up
 
 In today's digital world, adding recommendations to systems is a worthwhile investment. Recommendation systems not only improve user experience and engagement but also increase income for organizations.
 
